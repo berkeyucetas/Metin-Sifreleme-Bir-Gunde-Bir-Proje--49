@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\bin\Debug\Metin Şifreleme.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\bin\Debug\Metin Şifreleme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\bin\Debug\Metin Şifreleme.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin Şifreleme.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin_Şifreleme.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin_Şifreleme.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin Şifreleme.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin Şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin Şifreleme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Şifreleme\Metin Şifreleme\obj\Debug\Metin Şifreleme.pdb
